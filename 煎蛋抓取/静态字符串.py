@@ -18,5 +18,3 @@ class Seting():
     InserMainQS = 'INSERT into Article(title,linkurl,picurl) values(%s,%s,%s)'
 
     InserDetailQS = 'INSERT INTO Paragraph(Title,Content,Source) VALUES(%s,%s,%s)'
-
-    OKOK = ''
