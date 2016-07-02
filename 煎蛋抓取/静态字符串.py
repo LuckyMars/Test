@@ -8,7 +8,7 @@ class Seting():
     jandanurl = "http://www.jandan.net/"
 
     _ConnString = {
-        'host': '116.251.219.27',
+        'host': 'localhost',
         'port': '3306',
         'user': 'python',
         'password': 'lipasswd',

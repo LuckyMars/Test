@@ -1,6 +1,5 @@
 import urllib.request
 from urllib.error import HTTPError,URLError
-
 import urllib查看网页源代码
 
 from 煎蛋抓取 import 静态字符串
