@@ -1,6 +1,8 @@
-from bs4 import BeautifulSoup
 import urllib查看网页源代码
-import 静态字符串
+from bs4 import BeautifulSoup
+
+from 煎蛋抓取 import 静态字符串
+
 
 def GetUrlPicTitle():
     data = urllib查看网页源代码.OpenArticleWebSource(静态字符串.Seting.jandanurl)

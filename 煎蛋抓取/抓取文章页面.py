@@ -1,6 +1,8 @@
 #获取链接中文章的全部段落列表
 from bs4 import BeautifulSoup
-import urllib查看网页源代码
+
+from 煎蛋抓取 import urllib查看网页源代码
+
 
 def GetArticleParagraph(ArticleUrl):
     htmldata = urllib查看网页源代码.OpenArticleWebSource(ArticleUrl)
