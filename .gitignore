@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-*.configOK
+煎蛋抓取/静态字符串.py
 # C extensions
 *.so
 
