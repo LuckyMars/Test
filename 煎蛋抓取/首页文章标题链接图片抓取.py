@@ -4,7 +4,7 @@ import 静态字符串
 
 def GetUrlPicTitle():
     data = urllib查看网页源代码.OpenArticleWebSource(静态字符串.Seting.jandanurl)
-    if(len(data)>200):
+    if(data is not None):
         soup = BeautifulSoup(data, "html.parser")
         DivTags = soup.find_all("div", attrs={"class": "post f list-post"})
         divLen = len(DivTags)
