@@ -7,6 +7,8 @@ class Seting():
                'Mozilla/5.0 (Windows NT 10) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11')
     jandanurl = "http://www.jandan.net/"
 
+    okok='isthiswork'
+
     _ConnString = {
         'host': 'localhost',
         'port': '3306',
