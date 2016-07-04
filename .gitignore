@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-煎蛋抓取/*.configOK
+煎蛋抓取/我可以这样吗.py
 # C extensions
 *.so
 
