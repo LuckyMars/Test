@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 煎蛋抓取/字符串加解密.py
+不上传的静态字符串.py
 # C extensions
 *.so
 
